@@ -1,4 +1,4 @@
-#include "main.h"
+#include "../main.h"
 
 //size of array:
 int	size_of_array(char **array)

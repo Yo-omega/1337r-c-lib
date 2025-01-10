@@ -9,9 +9,14 @@
 
 //structures here:
 
-//functions here:
+/**functions here:**/
 
-//integers & math:
+/*arrays and strings:*/
+
+//calculate the size of a terminated array of strings
+int	size_of_array(char **array);
+
+/*integers & math:*/
 
 //return absolute value of an int, if n = MIN_INT returns (-1) for error
 //function is protected
