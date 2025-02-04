@@ -7,7 +7,7 @@
 # include <stdlib.h>
 # include <limits.h>
 
-//structures here:
+/*structures here*/
 
 /**functions here:**/
 
